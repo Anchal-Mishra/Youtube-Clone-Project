@@ -56,7 +56,7 @@ Ensure the following software is installed:
 
 ### 📌 Clone the Repository
 ```bash
-git clone https://github.com/dhimansaurabh43/YoutubeClone.git
+git clone https://github.com/Anchal-Mishra/Youtube-Clone-Project
 cd youtube-clone-main
 ```
 
@@ -127,6 +127,6 @@ npm run dev
 ---
 
 ## 📌 Repository Details
-- **GitHub Repository:** [YouTube Clone]()
+- **GitHub Repository:** [YouTube Clone](https://github.com/Anchal-Mishra/Youtube-Clone-Project)
 
 
